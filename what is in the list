@@ -70,4 +70,4 @@ elif platform == "BUSINESS":
             # input("Press Enter to end program")
             # break
 else:
-    input("\nSorry! This platform is not available right now ")
+    input("\nSorry! This platform is not available right now ") 
